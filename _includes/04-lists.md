@@ -1,1 +1,5 @@
-Replace this with a list of your favorite things.
+- Spending time with friends and family
+- Skiing
+- Hiking
+- Being in the mountains
+- Reading

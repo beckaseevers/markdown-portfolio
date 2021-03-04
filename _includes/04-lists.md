@@ -1,0 +1,5 @@
+- Spending time with friends and family
+- Skiing
+- Hiking
+- Being in the mountains
+- Reading

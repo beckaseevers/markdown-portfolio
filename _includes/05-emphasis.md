@@ -1,0 +1,3 @@
+- I have __1.5 years__ experience in __Python__
+- I have __2+ years__ experience in __Java__
+- Experience in *REST API*, *PHP*, *JavaScript*, *Angular*, *HTML*
